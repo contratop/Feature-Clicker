@@ -1,0 +1,48 @@
+name: Build and Release APK
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'zulu'
+          java-version: '17'
+
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v3
+
+      - name: Make gradlew executable
+        run: chmod +x ./gradlew
+
+      - name: Build Release APK
+        run: ./gradlew assembleRelease
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v1.0.${{ github.run_number }}
+          name: Feature Clicker 1.0.${{ github.run_number }}
+          body: |
+            ## 🚀 Nueva actualización de Feature Clicker (Community Edition)
+            ¡Una nueva versión acaba de salir del horno! 
+            Esta versión ha sido compilada automáticamente a partir del último commit en el repositorio.
+            
+            **✨ Filosofía del juego:** 
+            El código es de todos, el juego es de todos. ¡Descarga el archivo APK más abajo, instálalo en tu móvil Android y prueba las últimas locuras que la comunidad y la IA han añadido!
+          files: app/build/outputs/apk/release/app-release.apk
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
