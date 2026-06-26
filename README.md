@@ -3,6 +3,28 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://pokeinalover.github.io"><img src="https://avatars.githubusercontent.com/u/90932794?v=4?s=100" width="100px;" alt="pokeinalover"/><br /><sub><b>pokeinalover</b></sub></a><br /><a href="#design-pokeinalover" title="Design">🎨</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
 ¡Bienvenido a **Feature Clicker**!
 
 Un idle/clicker game nativo para Android (inspirado en juegos como Cookie Clicker), pero con un giro muy especial: su filosofía de desarrollo.
@@ -56,24 +78,3 @@ Usa la seccion de Issues del repositorio, reporta:
 5. **Testing**: Simplemente juega el juego y da tu opinión sobre la jugabilidad y el equilibrio. 🎮
 6. **Documentación**: Ayuda a mejorar la documentación del proyecto. 📝
 
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://pokeinalover.github.io"><img src="https://avatars.githubusercontent.com/u/90932794?v=4?s=100" width="100px;" alt="pokeinalover"/><br /><sub><b>pokeinalover</b></sub></a><br /><a href="#design-pokeinalover" title="Design">🎨</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
