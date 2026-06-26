@@ -15,6 +15,18 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "contratop",
+      "name": "contratop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23730767?v=4",
+      "profile": "https://contratop.github.io",
+      "contributions": [
+        "code",
+        "ideas",
+        "doc",
+        "projectManagement"
+      ]
     }
   ],
   "contributorsPerLine": 7,
