@@ -5,7 +5,7 @@
 
 ## Contribuidores ✨
 
-Pequeñas grandes contribuciones que hacen de este un proyecto especial. Gracias a: ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Pequeñas grandes contribuciones que hacen de este un proyecto especial. Gracias a:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
