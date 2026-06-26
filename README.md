@@ -1,6 +1,6 @@
 # Feature Clicker 💡
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -14,6 +14,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://pokeinalover.github.io"><img src="https://avatars.githubusercontent.com/u/90932794?v=4?s=100" width="100px;" alt="pokeinalover"/><br /><sub><b>pokeinalover</b></sub></a><br /><a href="#design-pokeinalover" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://contratop.github.io"><img src="https://avatars.githubusercontent.com/u/23730767?v=4?s=100" width="100px;" alt="contratop"/><br /><sub><b>contratop</b></sub></a><br /><a href="#code-contratop" title="Code">💻</a><a href="#ideas-contratop" title="Ideas">🤔</a><a href="#doc-contratop" title="Documentation">📖</a><a href="#projectManagement-contratop" title="Project Management">📆</a></td>
     </tr>
   </tbody>
 </table>
